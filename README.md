@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MEGH RAJ</h1>
-<h3 align="center">An intern in Data Science</h3>
+<h3 align="center">Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghraj9122773080&label=Profile%20views&color=0e75b6&style=flat" alt="meghraj9122773080" /> </p>
 
-- 🌱 I’m currently learning **PYTHON, GEN AI**
+- 🌱 I’m currently learning **PYTHON, ML, Statistics, Deep Learning, & GEN AI**
 
 - 📫 How to reach me **meghraj150198@gmail.com**
 
